@@ -67,7 +67,6 @@ const Header = () => {
 								<FontAwesomeIcon icon={faGithub} size="2x" />
 							</a>
 							<a>
-								{" "}
 								<FontAwesomeIcon icon={faLinkedin} size="2x" />
 							</a>
 							<a>
