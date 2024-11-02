@@ -63,19 +63,19 @@ const Header = () => {
 					alignItems="center">
 					<nav>
 						<HStack>
-							<a>
+							<a href="https://www.github.com">
 								<FontAwesomeIcon icon={faGithub} size="2x" />
 							</a>
-							<a>
+							<a href="https://www.linkedin.com">
 								<FontAwesomeIcon icon={faLinkedin} size="2x" />
 							</a>
-							<a>
+							<a href="mailto:someone@meta.com">
 								<FontAwesomeIcon icon={faEnvelope} size="2x" />
 							</a>
-							<a>
+							<a href="https://www.medium.com">
 								<FontAwesomeIcon icon={faMedium} size="2x" />
 							</a>
-							<a>
+							<a href="https://www.stackoverflow.com">
 								<FontAwesomeIcon icon={faStackOverflow} size="2x" />
 							</a>
 						</HStack>
